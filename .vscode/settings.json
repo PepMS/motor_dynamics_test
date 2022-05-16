@@ -1,0 +1,9 @@
+{
+  "C_Cpp.errorSquiggles": "Enabled",
+  "cmake.parallelJobs": 6,
+  "cmake.buildDirectory": "${workspaceFolder}/build-${variant:buildType}",
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/build-${variant:buildType}/compile_commands.json",
+  "python.formatting.provider": "yapf",
+  "python.linting.enabled": true,
+  "editor.formatOnSave": true,
+}
